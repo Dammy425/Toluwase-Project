@@ -4,13 +4,12 @@ body {
     box-sizing: border-box;
 }
 
-#hive {
-    background-color: blue;
-    width: ;
-    height: 155px;
+#net2 {
+    width: 127px;
+    height: 127px;
+    /* border-radius: 50%; */
 }
 
-#nav-img {
-    width: ;
-    height: 100px;
+#hive {
+    background-color: #ffff33;
 }
